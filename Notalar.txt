@@ -1,1 +1,2 @@
 Do Re Mi Fa Sol La Si Do
+1 2 3 4 5 6 7
